@@ -84,14 +84,7 @@ This project analyzes customer churn for a banking dataset using an interactive 
 
 ***
 
-## How to Use
 
-1. Download and open the PowerBI .pbix dashboard.
-2. Place all dataset files into the relevant `data/` directory.
-3. Update data sources in Power BI to point to local copies (if necessary).
-4. Use in-dashboard slicers and visualizations to explore churn patterns by any attribute.
-
-***
 
 ## Screenshots
 
@@ -99,13 +92,6 @@ Visual samples are included as evidence of dashboard features and design aesthet
 
 ***
 
-## Credits
-
-- Data and analysis: [Contributor Name]
-- Tool: Microsoft Power BI
-- Sample Banking Churn Data (CSV/XLSX) and custom mapping sheets.[5][6][7][8][3][4]
-
-***
 
 This README covers the datasets, dashboard features, and full Power BI build process for a professional exploratory churn analytics project with interactive visuals and actionable insights.[6][7][8][3][4][5][1][2]
 
